@@ -57,7 +57,7 @@ Realizar un fork o clon del proyecto, importar al IDE de preferencia, para ejecu
 
 ## Contribuyendo 🖇️
 
-Por favor lee el [CONTRIBUTING.md](https://github.com/adrianfrancof/ProduceRestUsuarioJWT-H2Database.git) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+Por favor lee el [CONTRIBUTING.md](https://github.com/adrianfrancof/tutorial-consumeRest.git) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
 
 ## Versionado 📌
 
