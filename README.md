@@ -44,7 +44,6 @@ Realizar un fork o clon del proyecto, importar al IDE de preferencia, para ejecu
 
 * [SpringSecurity]()
 * [Spring Web]()
-* [JWT]()
 * [Spring Boot]()
 * [Hibernate]()
 * [JPA]()
