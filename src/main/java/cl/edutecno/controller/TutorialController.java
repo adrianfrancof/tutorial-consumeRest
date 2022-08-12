@@ -63,8 +63,6 @@ public class TutorialController {
 		if (tutorialDTO.getId() != null) {
 			tutorialService.delete(tutorialDTO.getId());
 		}
-		return new RedirectView("/tutoriales");
-		
+		return new RedirectView("/tutoriales");	
 	}
-
 }
