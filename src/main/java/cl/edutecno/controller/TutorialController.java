@@ -21,7 +21,7 @@ public class TutorialController {
 	private TutorialService tutorialService;
 	
 	@GetMapping
-	public ModelAndView alumnos(){
+	public ModelAndView tutoriales(){
 		
 		ModelAndView modelAndView = new ModelAndView("tutoriales");
 		modelAndView.addObject("tutoriales", tutorialService.findAll());
